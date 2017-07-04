@@ -1,0 +1,7 @@
+com/amal/marsrover/PlateauTest.class
+com/amal/marsrover/MarsRoverTest.class
+com/amal/marsrover/state/EastFacingStateTest.class
+com/amal/marsrover/state/NorthFacingStateTest.class
+com/amal/marsrover/state/SouthFacingStateTest.class
+com/amal/marsrover/util/InputProcessorTest.class
+com/amal/marsrover/state/WestFacingStateTest.class
